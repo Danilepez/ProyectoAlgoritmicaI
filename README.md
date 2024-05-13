@@ -50,12 +50,34 @@ A continuación, se detallan los pasos para instalar y ejecutar la aplicación F
 
 ### Pasos de Instalación
 
-#### Clonar el Repositorio:
+1. **Clonar el Repositorio:**
 
-```bash
-git clone https://github.com/tu_usuario/favefusion.git
-cd favefusion
-pip install -r requirements.txt
-python main.py
-¡Ahora está listo para ser agregado a tu README en GitHub! Si necesitas alguna modificación adicional o ayuda con otra cosa, házmelo saber.
+    ```bash
+    git clone https://github.com/tu_usuario/favefusion.git
+    ```
 
+    También puedes descargar el repositorio como un archivo ZIP y extraerlo en tu máquina local.
+
+2. **Acceder al Directorio del Proyecto:**
+
+    ```bash
+    cd favefusion
+    ```
+
+3. **Instalar Dependencias:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Ejecutar la Aplicación:**
+
+    ```bash
+    python main.py
+    ```
+
+5. **Acceder a la Aplicación:**
+
+    Abre tu navegador web y visita [http://localhost:8000](http://localhost:8000) para acceder a la aplicación FaveFusion.
+
+¡Listo! Ahora puedes explorar y disfrutar de la experiencia musical de FaveFusion en tu propio entorno local.
