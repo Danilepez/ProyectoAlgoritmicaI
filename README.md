@@ -38,3 +38,24 @@ Este proyecto fue desarrollado por Tu Nombre.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT License.
+
+## Instalación
+
+A continuación, se detallan los pasos para instalar y ejecutar la aplicación FaveFusion en tu entorno local:
+
+### Requisitos Previos
+
+- Python 3.x instalado en tu sistema.
+- Conexión a internet para descargar las dependencias necesarias.
+
+### Pasos de Instalación
+
+#### Clonar el Repositorio:
+
+```bash
+git clone https://github.com/tu_usuario/favefusion.git
+cd favefusion
+pip install -r requirements.txt
+python main.py
+¡Ahora está listo para ser agregado a tu README en GitHub! Si necesitas alguna modificación adicional o ayuda con otra cosa, házmelo saber.
+
