@@ -19,10 +19,34 @@ FaveFusion es una aplicación web que te ayuda a descubrir nueva música y conec
 5. Abre tu navegador web y visita [http://localhost:8000](http://localhost:8000) para acceder a la aplicación.
 
 ## Uso
-1. Inicia sesión con tu cuenta existente o regístrate para crear una nueva cuenta.
-2. Explora los diferentes géneros musicales y agrega tus favoritos a tu perfil.
-3. Busca coincidencias con otros usuarios que compartan tus intereses musicales.
-4. Disfruta de una experiencia social única y descubre nueva música junto con otras personas.
+
+Una vez que hayas instalado y ejecutado la aplicación FaveFusion, aquí te mostramos cómo puedes interactuar con ella:
+
+1. **Iniciar Sesión**
+   - Al abrir la aplicación, serás dirigido a la página de inicio de sesión.
+   - Ingresa tu nombre de usuario y contraseña para acceder a tu cuenta.
+
+2. **Explorar Funcionalidades**
+   - Una vez iniciada la sesión, podrás acceder a diferentes secciones de la aplicación, como la página de inicio, la búsqueda por género, la visualización de perfiles de usuarios y la página de coincidencias (matches).
+   - Utiliza los botones y enlaces proporcionados en la interfaz para navegar entre las distintas secciones.
+
+3. **Personalizar tu Perfil**
+   - En la sección de búsqueda por género, puedes seleccionar tus géneros musicales favoritos. Simplemente haz clic en los botones correspondientes a los géneros que te gustan.
+   - Asegúrate de seleccionar al menos 5 géneros para obtener mejores resultados en las coincidencias.
+
+4. **Explorar Perfiles de Usuarios**
+   - Visita la sección de visualización de perfiles de usuarios para ver perfiles de otros usuarios de la aplicación.
+   - Desplázate por los perfiles para conocer más detalles sobre cada usuario, como su nombre, edad, géneros musicales favoritos y una breve descripción.
+
+5. **Interactuar con Coincidencias**
+   - En la página de coincidencias, podrás ver las coincidencias de usuarios compatibles contigo.
+   - Explora las coincidencias y decide si deseas enviar un mensaje a algún usuario.
+
+6. **Cerrar Sesión**
+   - Cuando hayas terminado de usar la aplicación, cierra sesión en tu cuenta para proteger tu privacidad y seguridad.
+
+¡Disfruta explorando la diversidad musical y haciendo nuevas conexiones en FaveFusion!
+
 
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
