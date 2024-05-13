@@ -1,5 +1,7 @@
 # Nombre de la Aplicación
 ¡Bienvenido a la Aplicación FaveFusion!
+![Logo de FaveFusion](./imgagenes/Bad-Bunny.jpg)
+
 
 ## Descripción
 FaveFusion es una aplicación web que te ayuda a descubrir nueva música y conectar con personas que comparten tus gustos musicales. Con FaveFusion, puedes explorar una amplia variedad de géneros musicales, encontrar personas con gustos similares y disfrutar de una experiencia social única.
