@@ -17,10 +17,22 @@ FaveFusion es una aplicación web que te ayuda a descubrir nueva música y conec
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
+   
+   ```pip install -r requirements.txt`.```
 2. Asegúrate de tener Python instalado en tu sistema.
-3. Instala las dependencias necesarias ejecutando `pip install -r requirements.txt`.
-4. Ejecuta la aplicación ejecutando `python main.py`.
-5. Abre tu navegador web y visita [http://localhost:8000](http://localhost:8000) para acceder a la aplicación.
+
+  ```pip install -r requirements.txt`.```
+3. Instala las dependencias necesarias ejecutando
+  
+  ```pip install -r requirements.txt`.```
+4. Ejecuta la aplicación ejecutando
+  
+  ```python main.py`.```
+5. Para ejecutar la aplicacion ejecuta el siguiente comando:
+
+  ```flet run App.py`.```
+
+6. Para agregar la base de datos, asegurate de tener XAMPP instalado en tu ordenador, posteriormente crea una base de datos vacía con el nombre de "spotify", luego ve a importar base de datos y seleccionas "DataBase.sql"
 
 ## Uso
 
