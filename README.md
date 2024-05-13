@@ -17,28 +17,30 @@ FaveFusion es una aplicación web que te ayuda a descubrir nueva música y conec
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
-   
+
    ```pip install -r requirements.txt`.```
-2. Asegúrate de tener Python instalado en tu sistema.
 
-  ```pip install -r requirements.txt`.```
+   
+3. Asegúrate de tener Python instalado en tu sistema.
 
-  
-3. Instala las dependencias necesarias ejecutando
-  
-  ```pip install -r requirements.txt`.```
+   ```pip install -r requirements.txt`.```
 
   
-4. Ejecuta la aplicación ejecutando
+4. Instala las dependencias necesarias ejecutando
   
-  ```python main.py`.```
+   ```pip install -r requirements.txt`.```
 
   
-5. Para ejecutar la aplicacion ejecuta el siguiente comando:
+5. Ejecuta la aplicación ejecutando
+  
+   ```python main.py`.```
 
-  ```flet run App.py`.```
+  
+6. Para ejecutar la aplicacion ejecuta el siguiente comando:
 
-6. Para agregar la base de datos, asegurate de tener XAMPP instalado en tu ordenador, posteriormente crea una base de datos vacía con el nombre de "spotify", luego ve a importar base de datos y seleccionas "DataBase.sql"
+   ```flet run App.py`.```
+
+7. Para agregar la base de datos, asegurate de tener XAMPP instalado en tu ordenador, posteriormente crea una base de datos vacía con el nombre de "spotify", luego ve a importar base de datos y seleccionas "DataBase.sql"
 
 ## Uso
 
@@ -80,50 +82,11 @@ Una vez que hayas instalado y ejecutado la aplicación FaveFusion, aquí te most
 6. Abre un Pull Request y describe tus cambios detalladamente.
 
 ## Créditos
-Este proyecto fue desarrollado por Tu Nombre.
+Este proyecto fue desarrollado por Daniel López, Dorian Ticona, Pablo Achá, Camila Bocángel, Jorge Saenz.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT License.
 
-## Instalación
 
-A continuación, se detallan los pasos para instalar y ejecutar la aplicación FaveFusion en tu entorno local:
-
-### Requisitos Previos
-
-- Python 3.x instalado en tu sistema.
-- Conexión a internet para descargar las dependencias necesarias.
-
-### Pasos de Instalación
-
-1. **Clonar el Repositorio:**
-
-    ```bash
-    git clone https://github.com/tu_usuario/favefusion.git
-    ```
-
-    También puedes descargar el repositorio como un archivo ZIP y extraerlo en tu máquina local.
-
-2. **Acceder al Directorio del Proyecto:**
-
-    ```bash
-    cd favefusion
-    ```
-
-3. **Instalar Dependencias:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Ejecutar la Aplicación:**
-
-    ```bash
-    python main.py
-    ```
-
-5. **Acceder a la Aplicación:**
-
-    Abre tu navegador web y visita [http://localhost:8000](http://localhost:8000) para acceder a la aplicación FaveFusion.
 
 ¡Listo! Ahora puedes explorar y disfrutar de la experiencia musical de FaveFusion en tu propio entorno local.
