@@ -1,6 +1,8 @@
 # Nombre de la Aplicación
 ¡Bienvenido a la Aplicación FaveFusion!
-![Logo de FaveFusion](./imgagenes/Bad-Bunny.jpg)
+
+
+![Logo de FaveFusion](./imagenes/Bad-Bunny.jpg)
 
 
 ## Descripción
