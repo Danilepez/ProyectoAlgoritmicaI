@@ -22,12 +22,18 @@ FaveFusion es una aplicación web que te ayuda a descubrir nueva música y conec
 2. Asegúrate de tener Python instalado en tu sistema.
 
   ```pip install -r requirements.txt`.```
+
+  
 3. Instala las dependencias necesarias ejecutando
   
   ```pip install -r requirements.txt`.```
+
+  
 4. Ejecuta la aplicación ejecutando
   
   ```python main.py`.```
+
+  
 5. Para ejecutar la aplicacion ejecuta el siguiente comando:
 
   ```flet run App.py`.```
